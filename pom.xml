@@ -57,7 +57,7 @@
     <tomcat9.version>9.0.16</tomcat9.version>
     <tomcat.version>${tomcat85.version}</tomcat.version>
     <jandex.version>2.1.1.Final</jandex.version> <!-- speed-up startup -->
-    <ant.version>1.9.12</ant.version>
+    <ant.version>1.9.15</ant.version>
     <slf4j.version>1.8.0-beta2</slf4j.version>
     <log4j.version>1.2.17</log4j.version>
     <logback.version>1.3.0-alpha4</logback.version>
