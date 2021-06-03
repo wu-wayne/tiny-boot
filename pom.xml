@@ -46,7 +46,7 @@
     <mojarra.version>2.4.0</mojarra.version>
     <myfaces.version>2.2.10</myfaces.version>
     <weld.version>3.1.0.Final</weld.version>
-    <resteasy.version>4.0.0.Beta5</resteasy.version>
+    <resteasy.version>4.5.7.Final</resteasy.version>
     <lucene.version>7.7.1</lucene.version>
     <poi.version>4.0.1</poi.version>
     <xerces.version>2.12.0</xerces.version>
