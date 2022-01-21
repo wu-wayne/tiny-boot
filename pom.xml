@@ -51,7 +51,7 @@
     <poi.version>4.0.1</poi.version>
     <xerces.version>2.12.0</xerces.version>
     <hibernate.version>6.1.0.Alpha3</hibernate.version>
-    <h2.version>1.4.198</h2.version>
+    <h2.version>2.1.210</h2.version>
     <tomcat8.version>8.0.38</tomcat8.version>
     <tomcat85.version>8.5.38</tomcat85.version>
     <tomcat9.version>9.0.16</tomcat9.version>
